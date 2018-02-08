@@ -1,4 +1,12 @@
 {
+    "name": "JC/google-analytics-client",
+    "description": "None",
+    "authors": [
+        {
+            "name": "Jay Almanzar",
+            "email": "misurito@gmail.com"
+        }
+    ],
     "require": {
         "google/apiclient": "^2.0"
     },
